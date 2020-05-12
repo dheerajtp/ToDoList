@@ -1,4 +1,5 @@
- ToDoList
+#A Simple ToDoList Application
+
 Simple ToDo Application created in flutter.
 
 You can create a new todo item by clicking in the TASK and using ADD button
